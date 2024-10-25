@@ -1,4 +1,5 @@
 # Website
-My first Website on Github.
+# My First Website on GitHub
 
-This is an Experiment.
+This is an experiment to create and manage a website using GitHub.
+
